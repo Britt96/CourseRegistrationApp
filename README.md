@@ -1,1 +1,1 @@
-This course registration app is intended for students to view, add, and drop courses. PHP was used to connect the app to the MySQL database and return information to the user. Access it at http://collegeregistration.42web.io.
+This course registration app is intended for students to view, add, and drop courses. PHP was used to connect the app to a MySQL database and return information to the user. Access it at http://collegeregistration.42web.io.
